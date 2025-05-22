@@ -2,6 +2,12 @@
 
 UAlberta CourseLens is a centralized platform designed to streamline the process of finding and evaluating courses at the University of Alberta. It aggregates course and professor information from multiple sources, giving students one easy-to-use interface to make informed academic decisions.
 
+## UI Mockup
+![WhatsApp Image 2025-05-14 at 7 01 53 AM](https://github.com/user-attachments/assets/4a883f9f-6cd4-402a-ae6d-2441b2e51f50)
+![WhatsApp Image 2025-05-14 at 6 59 54 AM](https://github.com/user-attachments/assets/ae779d9e-1f17-4513-aa63-903b7bfdda48)
+![WhatsApp Image 2025-05-14 at 6 58 53 AM](https://github.com/user-attachments/assets/1a610e34-499e-4bf9-bf94-38754d9684f9)
+![WhatsApp Image 2025-05-14 at 6 59 19 AM](https://github.com/user-attachments/assets/cb112271-7c4d-4afc-aa5d-e1facdb275f6)
+
 ## Table of Contents
 - [Inspiration](#inspiration)
 - [Problem Statement](#problem-statement)
