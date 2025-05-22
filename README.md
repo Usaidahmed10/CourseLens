@@ -47,12 +47,6 @@ Students face significant challenges when trying to gather all the necessary cou
 - Highlights course-specific accessibility features.
 - Offers insights into course difficulty levels based on student feedback.
 
-## UI Mockup
-![WhatsApp Image 2025-05-14 at 7 01 53 AM](https://github.com/user-attachments/assets/4a883f9f-6cd4-402a-ae6d-2441b2e51f50)
-![WhatsApp Image 2025-05-14 at 6 59 54 AM](https://github.com/user-attachments/assets/ae779d9e-1f17-4513-aa63-903b7bfdda48)
-![WhatsApp Image 2025-05-14 at 6 58 53 AM](https://github.com/user-attachments/assets/1a610e34-499e-4bf9-bf94-38754d9684f9)
-![WhatsApp Image 2025-05-14 at 6 59 19 AM](https://github.com/user-attachments/assets/cb112271-7c4d-4afc-aa5d-e1facdb275f6)
-
 ## Features
 
 - **Unified Course Information:** Combines details from RateMyProf, Reddit, BearTracks, and other sources.
